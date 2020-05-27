@@ -24,7 +24,6 @@ int main()
 	
 	printf("\nEnter Code Name: ");
 	gets(str6);
-	strcpy(str6, /t)
 	strcat(str6, str1);
 	strcat(str6, str2);
 	strcat(str6, str3);
